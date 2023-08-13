@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NAPI Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#home">Home</a></li>
+            <li><a href="#github">GitHub Subdomains</a></li>
+            <li><a href="#api">API Reference</a></li>
+            <li><a href="#sandbox">Sandbox</a></li>
+            <li><a href="#custom-js">Customizable JavaScript</a></li>
+        </ul>
+    </nav>
+
+    <section id="home">
+        <h1>Welcome to NAPI Website</h1>
+        <p>This is the homepage content.</p>
+    </section>
+
+    <section id="github">
+        <h2>GitHub Subdomains</h2>
+        <p>This section hosts your GitHub subdomains.</p>
+    </section>
+
+    <section id="api">
+        <h2>API Reference</h2>
+        <p>This section provides the API documentation.</p>
+    </section>
+
+    <section id="sandbox">
+        <h2>Sandbox</h2>
+        <p>This section includes the interactive API sandbox.</p>
+    </section>
+
+    <section id="custom-js">
+        <h2>Customizable JavaScript</h2>
+        <p>This section contains customizable JavaScript modules.</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 NAPI Website. All rights reserved.</p>
+    </footer>
+
+    <script src="main.js"></script>
+</body>
+</html>
